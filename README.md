@@ -14,7 +14,7 @@ It's also important to note that the webpage you can create doesn't have to be s
 ## Hardware Requirements
 
 - Raspberry Pi Pico W
-- Micro=USB cable for power
+- Micro-USB cable for power
 - Any device with WiFi and a web browser (phone, laptop, tablet)
   - An aside, I couldn't figure out how to get it to work on my phone, but it worked fine on my laptop. I presume there may be blocks created by Apple to prevent connections to unsecure hosts.
 
