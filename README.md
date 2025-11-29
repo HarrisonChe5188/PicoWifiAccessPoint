@@ -2,6 +2,7 @@
 
 A MicroPython script for the Raspberry Pi Pico 2 W that creates a WiFi access point. I've included a web interface for blinking morse code on the onboard LED while monitoring system statistics in real-time.
 
+It's also important to note that the webpage you can create doesn't have to be strictly HTML/CSS. There are Youtube videos online of people using Next.js to host cooler websites, but for sake of convenience, I used HTML/CCS
 ## Features
 
 - **WiFi Access Point Mode**: Creates its own WiFi network that devices can connect to
