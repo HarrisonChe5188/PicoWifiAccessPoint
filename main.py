@@ -253,4 +253,4 @@ def ap_mode(ssid, password):
         
         conn.close()
 
-ap_mode('NAME', 'PASSWORD')
+ap_mode('Wi-Pi', '1234')
